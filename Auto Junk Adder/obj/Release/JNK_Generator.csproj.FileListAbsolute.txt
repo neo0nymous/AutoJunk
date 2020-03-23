@@ -1,0 +1,13 @@
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\bin\Release\JNK_Generator.exe.config
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\bin\Release\JNK_Generator.exe
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\bin\Release\JNK_Generator.pdb
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\bin\Release\MetroFramework.Design.dll
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\bin\Release\MetroFramework.dll
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\bin\Release\MetroFramework.Fonts.dll
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.JNK1.resources
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.Properties.Resources.resources
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.csproj.GenerateResource.cache
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.csproj.CoreCompileInputs.cache
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.csproj.CopyComplete
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.exe
+D:\Development\GitHub\AutoJunk\Auto Junk Adder\obj\Release\JNK_Generator.pdb
